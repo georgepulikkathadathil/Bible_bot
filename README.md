@@ -1,2 +1,2 @@
 # Bible_bot
-telegram bot showing bible verses
+Telegram bot showing bible verses
